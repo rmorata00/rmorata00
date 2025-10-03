@@ -1,5 +1,13 @@
-
-
+<!-- Animación CSS para desvanecer -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.fade-title {
+  animation: fadeIn 3s ease-in-out;
+}
+</style>
 
 <small>
 
@@ -31,5 +39,4 @@ My academic background is giving me hands-on experience with ⚡ modern tools an
 💻 [GitHub](https://github.com/rmorata00)  
 
 </small>
-
 

@@ -1,4 +1,4 @@
-<!-- Animación CSS para desvanecer -->
+
 <style>
 @keyframes fadeIn {
   from { opacity: 0; }

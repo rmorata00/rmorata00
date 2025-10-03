@@ -28,8 +28,6 @@ My academic background is giving me hands-on experience with ⚡ modern tools an
 
 ---
 
-<p align="center">
-  <img src="image.png" alt="alt text" width="380">
 </p>
 
 ---

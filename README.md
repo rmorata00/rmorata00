@@ -1,13 +1,5 @@
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-.fade-title {
-  animation: fadeIn 3s ease-in-out;
-}
-</style>
+
 
 <small>
 

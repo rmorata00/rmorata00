@@ -1,16 +1,43 @@
-## Hi there 👋
+<!-- Animación CSS para desvanecer -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.fade-title {
+  animation: fadeIn 3s ease-in-out;
+}
+</style>
 
-<!--
-**rmorata00/rmorata00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<small>
 
-Here are some ideas to get you started:
+<h1 class="fade-title">✨ RAFAEL MORATA LOPEZ ✨</h1>
+<h2>📍 Currently in Valencia</h2>
+<h3>📚 Improving my education at EDEM</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi! I am **Rafa**, a Master's student in **Big Data and Cloud** at EDEM, passionate about  
+🔍 transforming **data into insights** and ☁️ building **scalable cloud-based solutions**.  
+My academic background is giving me hands-on experience with ⚡ modern tools and technologies in **data engineering**, 📊 **analytics**, and 🌐 **cloud computing**.  
+
+---
+
+## 🛠️ Tech Stack 🚀
+- 💻 **Languages**: Python 🐍, SQL 🗄️, Java ☕, Bash 🖥️  
+- 📡 **Big Data**: Spark ⚡, Hadoop 🐘, Kafka 🔄  
+- ☁️ **Cloud**: AWS 🌍, GCP 🌐, Azure 🔒  
+
+---
+
+<p align="center">
+  <img src="image.png" alt="alt text" width="380">
+</p>
+
+---
+
+## 📫 Connect with Me 🤝  
+🔗 [LinkedIn](https://www.linkedin.com/in/rafael-morata-l%C3%B3pez/)  
+💻 [GitHub](https://github.com/rmorata00)  
+
+</small>
+
+

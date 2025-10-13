@@ -13,9 +13,7 @@ My academic background is giving me hands-on experience with ⚡ modern tools an
 ---
 
 ## 🛠️ Tech Stack 🚀
-- 💻 **Languages**: Python 🐍, SQL 🗄️, Java ☕, Bash 🖥️  
-- 📡 **Big Data**: Spark ⚡, Hadoop 🐘, Kafka 🔄  
-- ☁️ **Cloud**: AWS 🌍, GCP 🌐, Azure 🔒  
+- 💻 **Languages**: Python 🐍, SQL 🗄️.
 
 ---
 
